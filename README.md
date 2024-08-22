@@ -1,6 +1,6 @@
 # Dynamic Filter Application on Live Video Using OpenCV
 
-This is only applicable for **Grayscale_cv.py** commit
+This is only applicable for **Grayscale_cv.py** file
 
 
  ### Introduction
